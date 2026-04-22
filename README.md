@@ -1,6 +1,6 @@
 # All Restaurants in Fort Smith, Arkansas, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `738832` |
 | Location | Fort Smith |
 | Category | Restaurants |
-| Full dataset size | 404 records |
-| Free sample size | 40 records (9.9%) |
-| Last export | 2026-04-14T18:02:42.469110+00:00 |
+| Full dataset size | 242 records |
+| Free sample size | 24 records (9.92%) |
+| Last export | 2026-04-21T19:54:36.024454+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fort-smith-arkansas-us-sample-738832/releases/download/sample-latest/beamstation_738832_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
