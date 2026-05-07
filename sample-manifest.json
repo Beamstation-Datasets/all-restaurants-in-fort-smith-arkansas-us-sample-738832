@@ -1,12 +1,12 @@
 {
-  "export_job_id": "59c1e16f-c18b-4920-8c81-c7676c561f77",
+  "export_job_id": "25706eb1-75ad-4efd-b8bd-cced872a5de4",
   "id_short": 738832,
-  "published_at": "2026-04-29T07:59:04Z",
+  "published_at": "2026-05-07T19:22:58Z",
   "repo_name": "all-restaurants-in-fort-smith-arkansas-us-sample-738832",
   "sample_asset_name": "beamstation_738832_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/738832/beamstation_738832_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 40,
-  "sample_sha256": "5c717d6aeacdfc92315cce87b981e9b2691112b7845594ca95173d10a81cd2a5",
-  "sample_size_bytes": 154683,
-  "total_records": 405
+  "sample_records": 44,
+  "sample_sha256": "ef05e8042665e276ce1f966671d561dbc2c82468d00cb2960795223a4a797640",
+  "sample_size_bytes": 159228,
+  "total_records": 443
 }
